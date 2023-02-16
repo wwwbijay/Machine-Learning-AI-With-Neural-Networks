@@ -7,5 +7,6 @@ Predict best text color for given background using machine learning with neural 
 3. Suggest white if white text looks better on current background.
 4. You can Console log the training data and add to script for better results.
 
-#Demo
+
+# Demo
 https://wwwbijay.github.io/Machine-Learning-AI-With-Neural-Networks/
